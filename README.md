@@ -110,7 +110,7 @@ because 'Bert' pre-trained model will be downloaded locally.
 
 ## Optimizations
 
-we optimized our piplines to get response in less than 5 seconds !!
+now we are working to optimize our piplines to get response in less than 5 seconds !!
 
 ## Feedback
 
