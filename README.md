@@ -1,0 +1,2 @@
+# Question-Answering-NMEC-Guide
+National Museum of Egyptian Civilization has open months ago, they announced that they need a system that helps any visitor to ask any question about Ancient Egypt, the visitor is interested in a concise, comprehensible, and correct answer, which may refer to a word, sentence, or a paragraph. Information based question answering systems (NMEC) is an appropriate solution to this case.
