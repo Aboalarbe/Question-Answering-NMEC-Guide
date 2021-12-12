@@ -61,7 +61,7 @@ Besides the main architecture, QA systems can be defined by the paradigm each on
 On sending a question to the system as shown in figure. The NMEC system will work to process both documents and questions to extract information and retrieve the answer through several steps as follows:
 ![fig2](https://firebasestorage.googleapis.com/v0/b/plantsexpertsystem-f6812.appspot.com/o/WhatsApp%20Image%202021-12-11%20at%203.49.47%20AM.jpeg?alt=media&token=16091385-f764-42aa-8c1a-d2acaa3f68c5)
 
-[Full Documentation](https://docs.google.com/document/d/17AglWS0zOj_DGWt9206dtrgRuT7pmaqO/edit#)
+[Full Documentation](https://drive.google.com/file/d/1ZbL_a5QpfzdETIzHRzkYKwYjOl41_jJW/view?usp=sharing)
 
 
 
